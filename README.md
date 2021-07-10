@@ -1,4 +1,5 @@
-![ВЕЧЕРИНКА](https://user-images.githubusercontent.com/45296707/125169419-bf02eb80-e1b2-11eb-92cb-65390fb1745b.jpg)
+![ВЕЧЕРИНКА-min](https://user-images.githubusercontent.com/45296707/125170084-d8f1fd80-e1b5-11eb-9082-31e78a8bdbbc.gif)
+
 
 ### Hello! 👋 
 #### My name is Irina and I'm a beginner frontend-developer. 
