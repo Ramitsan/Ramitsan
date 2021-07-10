@@ -5,7 +5,7 @@
 ### Hello! 👋 
 #### My name is Irina and I'm a beginner frontend-developer. 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramitsan)](https://github.com/ramitsan/github-readme-stats)
 <!--
 **Ramitsan/Ramitsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
