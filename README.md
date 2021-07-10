@@ -1,6 +1,7 @@
-### Hello! 👋 
-My name is Irina and I'm a beginner frontend-developer. I like creating attractive, user-friendly sites with modern design. I have been constantly educating myself, improving my hard&soft skills. I like to work in a team and communicate with new people.
+![ВЕЧЕРИНКА](https://user-images.githubusercontent.com/45296707/125169133-7434a400-e1b1-11eb-8016-156c4e4195ce.png)
 
+### Hello! 👋 
+## My name is Irina and I'm a beginner frontend-developer. I like creating attractive, user-friendly sites with modern design. 
 
 
 <!--
