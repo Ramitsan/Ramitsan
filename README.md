@@ -1,4 +1,5 @@
-![ВЕЧЕРИНКА](https://user-images.githubusercontent.com/45296707/125170583-4bfc7380-e1b8-11eb-8d9f-cf6db8bc93a6.png)
+![ВЕЧЕРИНКА](https://user-images.githubusercontent.com/45296707/125170613-6e8e8c80-e1b8-11eb-81bb-321d9c4c7a50.png)
+
 
 
 ### Hello! 👋 
